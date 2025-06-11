@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebeam7/paquete-estadistica-js.git"
+    "url": ""
   },
   "keywords": [],
   "author": "Luis Beltrán",
@@ -16,7 +16,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/icebeam7/paquete-estadistica-js/issues"
+    "url": "https://github.com/adann78/githubPackages/issues"
   },
   "homepage": "https://github.com/adann78/githubPackages#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
